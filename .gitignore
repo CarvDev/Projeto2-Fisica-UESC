@@ -323,4 +323,9 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# uv
+.python-version
+pyproject.toml
+uv.lock
+
 # End of https://www.toptal.com/developers/gitignore/api/django,windows,visualstudiocode,python,linux

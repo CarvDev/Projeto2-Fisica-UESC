@@ -1,0 +1,9 @@
+Referências bibliográficas para adicionar no projeto:
+
+1. Física:
+- HALLIDAY, D.; RESNICK, R.; WALKER, J. Fundamentos de Física. 10ª edição. Rio de Janeiro: LTC, 2016
+- Nussenveig, Herch M., Curso de Física Básica 3: Eletromagnetismo, 5ª Edição, Editora Edgard Blucher, 2013.
+
+2. Documentação Técnica:
+- Matplotlib
+	Disponível em: https://matplotlib.org/stable/users/index.html

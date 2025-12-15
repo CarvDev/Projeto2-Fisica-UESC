@@ -45,7 +45,7 @@ Você pode executar o projeto de duas maneiras. O método com ambiente virtual (
 
 ### Método 1: Com Ambiente Virtual (Recomendado)
 
-Este método requer apenas `git` e `python` instalados. O comando a seguir irá clonar o repositório, criar um ambiente virtual (`venv`), instalar as dependências (`numpy`, `matplotlib`, `ipywidgets` e `notebook`) dentro dele e, em seguida, iniciar o Jupyter Notebook.
+Este método requer apenas `git`, `python` e `venv` instalados. O comando a seguir irá clonar o repositório, criar um ambiente virtual (`venv`), instalar as dependências (`numpy`, `matplotlib`, `ipywidgets` e `notebook`) dentro dele e, em seguida, iniciar o Jupyter Notebook.
 
 **Para usuários de Windows:**
 

@@ -51,28 +51,22 @@ Este método requer apenas `git` e `python` instalados. O comando a seguir irá 
 
 Execute este comando no **CMD** (não no PowerShell):
 
-DOS
-
-```
-git clone https://github.com/CarvDev/Projeto2-Fisica-UESC.git && cd Projeto-Fisica-Tema5 && python -m venv venv && venv\Scripts\pip install numpy matplotlib notebook ipywidgets && venv\Scripts\jupyter notebook "Projeto Tema 5.ipynb"
+``` cmd
+git clone https://github.com/CarvDev/Projeto2-Fisica-UESC.git && cd Projeto-Fisica-Tema5 && python -m venv venv && venv\Scripts\pip install numpy matplotlib notebook ipywidgets && venv\Scripts\jupyter notebook "Projeto.ipynb"
 ```
 
 **Nota:** Se precisar usar o PowerShell, execute os comandos um por um, pois o operador `&&` pode não funcionar dependendo da sua versão.
 
 **Para usuários de Arch/Fedora e derivados:**
 
-Bash
-
-```
-git clone https://github.com/CarvDev/Projeto2-Fisica-UESC.git && cd Projeto-Fisica-Tema5 && python -m venv venv && venv/bin/pip install numpy matplotlib notebook ipywidgets && venv/bin/jupyter notebook "Projeto Tema 5.ipynb"
+``` bash
+git clone https://github.com/CarvDev/Projeto2-Fisica-UESC.git && cd Projeto-Fisica-Tema5 && python -m venv venv && venv/bin/pip install numpy matplotlib notebook ipywidgets && venv/bin/jupyter notebook "Projeto.ipynb"
 ```
 
 **Para usuários de Debian/Ubuntu/Mint e derivados (Computadores da Faculdade):**
 
-Bash
-
-```
-git clone https://github.com/CarvDev/Projeto2-Fisica-UESC.git && cd Projeto-Fisica-Tema5 && python3 -m venv venv && venv/bin/pip install numpy matplotlib notebook ipywidgets && venv/bin/jupyter notebook "Projeto Tema 5.ipynb"
+``` bash
+git clone https://github.com/CarvDev/Projeto2-Fisica-UESC.git && cd Projeto-Fisica-Tema5 && python3 -m venv venv && venv/bin/pip install numpy matplotlib notebook ipywidgets && venv/bin/jupyter notebook "Projeto.ipynb"
 ```
 
 ### Método 2: Usando Pacotes do Sistema
@@ -81,8 +75,6 @@ Este método assume que você **já possui** o `git`, `python`, `numpy`, `matplo
 
 **Copie e cole no seu Terminal/CMD:**
 
-Bash
-
-```
-git clone https://github.com/CarvDev/Projeto2-Fisica-UESC.git && cd Projeto-Fisica-Tema5 && jupyter notebook "Projeto Tema 5.ipynb"
+``` bash
+git clone https://github.com/CarvDev/Projeto2-Fisica-UESC.git && cd Projeto-Fisica-Tema5 && jupyter notebook "Projeto.ipynb"
 ```

@@ -63,7 +63,7 @@ git clone https://github.com/CarvDev/Projeto2-Fisica-UESC.git && cd Projeto-Fisi
 git clone https://github.com/CarvDev/Projeto2-Fisica-UESC.git && cd Projeto-Fisica-Tema5 && python -m venv venv && venv/bin/pip install numpy matplotlib notebook ipywidgets && venv/bin/jupyter notebook "Projeto.ipynb"
 ```
 
-**Para usuários de Debian/Ubuntu/Mint e derivados (Computadores da Faculdade):**
+**Para usuários de Debian/Ubuntu/Mint e derivados:**
 
 ``` bash
 git clone https://github.com/CarvDev/Projeto2-Fisica-UESC.git && cd Projeto-Fisica-Tema5 && python3 -m venv venv && venv/bin/pip install numpy matplotlib notebook ipywidgets && venv/bin/jupyter notebook "Projeto.ipynb"
